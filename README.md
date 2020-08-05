@@ -7,4 +7,5 @@ Johns Hopkins University has made an excellent dashboard using the affected case
 (“https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset”)
 In this project, the total confirmed cases of Covid 19 around the world will visulize to find out how various country/provinces affected by the pandamic.
 
-
+## Results:
+[]!("http://localhost:8890/view/index.html")
