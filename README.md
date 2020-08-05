@@ -8,4 +8,4 @@ Johns Hopkins University has made an excellent dashboard using the affected case
 In this project, the total confirmed cases of Covid 19 around the world will visulize to find out how various country/provinces affected by the pandamic.
 
 ## Results:
-![]("http://localhost:8890/view/index.html")
+you can find the result here:("http://localhost:8890/view/index.html")
