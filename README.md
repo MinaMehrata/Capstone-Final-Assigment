@@ -5,7 +5,6 @@ From World Health Organization - On 31 December 2019, WHO was alerted to several
 So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
 Johns Hopkins University has made an excellent dashboard using the affected cases data. Data is extracted from the google sheets associated and made available at:
 (“https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset”)
-In this project, the total confirmed cases of Covid 19 around the world will compare to find the country and the state/province with the heights amount of total cases. Also, For Canada, the total number of confirmed cases for each province will visualize to figure out the area that affected most.
-
+In this project, the total confirmed cases of Covid 19 around the world will visulize to find out how various country/provinces affected by the pandamic.
 
 
