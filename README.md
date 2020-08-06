@@ -4,7 +4,8 @@ From World Health Organization - On 31 December 2019, WHO was alerted to several
 After importing data, data latitude and longitude for each country added through getting API key from the service provider (Open Cage Geocode). Then, an statistical analysis performed through (describe()) to get a general idea about number of cases values and their distribution. Pyplot graphs and Folium used to visualize data.
 
 # Results and Discussion
- The total number of cases in different countries around the word on February and August compared. In noticed that the cases were locally high in the country of origin “China”: in February and it rapidly spread out around the word on the August. USA has the maximum total number of cases in the world. The folium map lets user to click on each region and see the number of cases. It seems that there is not any relationship that countries closer to China has high number of the cases.  
+ The total number of cases in different countries around the word on February and August compared. In noticed that the cases were locally high in the country of origin “China”: in February and it rapidly spread out around the word on the August. USA has the maximum total number of cases in the world. The folium map lets user to click on each region and see the number of cases. It seems that there is not any relationship that countries closer to China has high number of the cases. 
+ 
 ![]( https://github.com/MinaMehrata/Capstone-Final-Assigment/blob/master/Image/pic1.png)
 
 ![]( https://github.com/MinaMehrata/Capstone-Final-Assigment/blob/master/Image/pic2.png)
