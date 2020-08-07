@@ -14,7 +14,7 @@ After importing data, data latitude and longitude for each country added through
 ![]( https://github.com/MinaMehrata/Capstone-Final-Assigment/blob/master/Image/pic3.PNG )
 
 # Conclusion
-China government perfectly managed number of cases his country. Countries like USA, Brazil and India have the highest number of the cases in compare to other countries. It is recommended to add population of each country data to data frame to analyze the number of cases/populations to get the better idea about the managing Covid 19 in different countries.
+China governments perfectly managed number of cases their country. Countries like USA, Brazil and India have the highest number of the cases in compare to other countries in August 2020. It is recommended to add population of each country data to data frame to analyze the number of cases/populations to get the better idea about the managing Covid 19 in different countries.
 
 
 
